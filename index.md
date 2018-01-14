@@ -6,7 +6,7 @@ I am passionate about researching solutions that harness technology to help huma
 
 Lately, I have started developing an interest in linguistics, primarily in how its ideas can be applied to natural language processing, but my knowledge in this area is quite rudimentary at the moment.
 
-In a previous life, I used to work in the field of information security at IBM, The Netherlands. I spent several wonderful years there learning interesting stuff. Before that, I gained a Masters degree from Eindhoven University of Technology.
+In a previous life, I used to work in the field of information security at IBM, The Netherlands. I spent several wonderful years there building and learning interesting stuff. Before that, I gained a Masters degree from Eindhoven University of Technology.
 
 The three activities that possibly give me the most pleasure are reading, eating, and walking (not necessarily in that order). I also geek out over board games, public transit systems, pro-wrestling, electoral systems, and election predictions.
 
