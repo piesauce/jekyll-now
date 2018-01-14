@@ -1,7 +1,5 @@
 ---
-layout: post
-title: Tokenized broodings
-permalink: /nlpblog/
+layout: default
 ---
 
 <div class="posts">
