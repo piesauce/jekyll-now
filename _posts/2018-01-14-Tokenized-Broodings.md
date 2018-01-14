@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Tokenized broodings
-permalink: /nlpblog/
 ---
 
 My new year resolution for 2018 was to study (and not just skim through) at least one NLP research paper per day. Fourteen days into 2018, I am still going strong, creating a new record for the number of days I have been able to sustain my new year resolutions! Now that might be just me getting too pessimistic about the results of my previous new year resolutions, but anyway...
