@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NLP blog
+title: Tokenized broodings
 permalink: /nlpblog/
 ---
 
