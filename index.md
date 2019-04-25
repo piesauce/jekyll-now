@@ -8,7 +8,7 @@ In a previous life, I used to work in the field of information security at IBM, 
 
 The three activities that possibly give me the most pleasure are reading, eating, and walking (not necessarily in that order). I also geek out over board games, public transit systems, pro-wrestling, electoral systems, and election predictions.
 
-If you need advice on higher education applications/universities, or need advice on immigration processes, or need career advice for software engineering, you can always shoot a mail to contact aT {{! website name}. Please note that I am not a professional in any of these fields, but I will help as much as I can :-)
+If you need advice on higher education applications/universities, or need advice on immigration processes, or need career advice for software engineering, you can always shoot a mail to contact aT `{{!` website name`}`. Please note that I am not a professional in any of these fields, but I will help as much as I can :-)
 
 
 
